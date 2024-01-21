@@ -1,0 +1,11 @@
+------= Capture.JPG =------
+# Define paths and tesseract command
+
+images_dir = ‘images’
+
+text_dir = ‘text’
+
+output_file = ‘output.txt’
+
+tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract exe’
+
